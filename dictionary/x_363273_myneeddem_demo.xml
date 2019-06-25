@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Demo" max_length="40" name="x_363273_myneeddem_demo" type="collection">
         <element label="age" max_length="40" name="age" type="integer"/>
+        <element label="gender" max_length="40" name="gender" type="string"/>
+        <element label="mobile" max_length="40" name="mobile" type="phone_number_e164"/>
         <element label="name`" max_length="40" name="name" type="string"/>
     </element>
 </database>
